@@ -1,2 +1,2 @@
-# IBMCurseraExample
+# IBMCourseraExample
 This is a repository example from the IBM Coursera course
